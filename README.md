@@ -20,4 +20,4 @@ The page will dynamically show you which hour block is current by displaying it 
 ![Day By Hour Screenshot](./assets/images/screenshot.png)
 
 ### ⚙Contribution
-*Made By* **[TNeswick](https://github.io/Tneswick/)**
+*Made By* **[TNeswick](https://github.com/Tneswick/)**
