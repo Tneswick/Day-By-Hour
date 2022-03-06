@@ -2,6 +2,9 @@
 var currentTime = luxon.DateTime.now()
 var currentHour = luxon.DateTime.now().hour
 
+
+var date = new Date()
+console.log(date.getMonth().toString())
 // display current day
 $("#currentDay").text(currentTime.toLocaleString(luxon.DateTime.DATE_HUGE));
 
